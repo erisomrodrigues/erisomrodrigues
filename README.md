@@ -1,4 +1,3 @@
-![hi](https://github.com/erisomrodrigues/erisomrodrigues/blob/main/sap.jpg)
 ## Olá 👋 Meu nome é Erisom Almeida
 
 > Sou Desenvolvedor SAP ABAP
