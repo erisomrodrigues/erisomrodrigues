@@ -1,3 +1,4 @@
+![hi](https://github.com/erisomrodrigues/erisomrodrigues/blob/main/sap.jpg)
 ## Olá 👋 Meu nome é Erisom Almeida
 
 > Sou Desenvolvedor SAP ABAP
@@ -27,6 +28,9 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
 * ABAP Inline 7.4
 * BRF+
 
+| Projetos/Descrição | Material de Apoio |GITHUB |
+| --- | --- | --- |
+| Odata - Desenvolvimentos | [Link](https://github.com/ruvnet/claude-flow) | [Link](https://github.com/ruvnet/claude-flow) |
 <!--
 **erisomrodrigues/erisomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
