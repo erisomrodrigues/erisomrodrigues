@@ -17,7 +17,7 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
   <a href = "mailto:erisomrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-### 🛠 Técnologias SAP
+### 🛠 SAP Development Skill
 * Module Pool
 * Adobe Forms
 * CDS
