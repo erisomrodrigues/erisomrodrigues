@@ -2,9 +2,15 @@
 
 > Sou Desenvolvedor SAP ABAP
 
+### :woman_technologist: Sobre mim
 Formação em Ciência da Computação e pós em Engenharia de Software, Tenho conhecimentos em desenvolvimentos com ABAP no SAP ECC no segmento agro e desenvolvimentos ABAP no S/4Hana no segmento Automobilistico. Atuo em projetos de melhorias e AMS a mais de 3 anos.
 
 Minha principal área de interesse é a construção de sistemas e melhorias. Acima de tudo, adoro entender a arquitetura de um projeto, aprender coisas novas e trabalhar com consutores muito mais competentes do que eu 😁.
+
+🔭 Atualmente trabalho como Consultor Técnico SAP <br>
+💡 Minha especialidade abrange ABAP Clássico até ABAP Mordeno <br>
+🌱 Estou aprendendo SAP OData, CDS e RAP (para projetos CAP) <br>
+👯 Gostaria muito de colaborar em projetos de desenvolvimento de software que envolvam programação ABAP <br>
 
 <!--  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
