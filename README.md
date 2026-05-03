@@ -30,6 +30,10 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
   <a href = "mailto:erisomrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛠 SAP Development Skill
 * Module Pool
 * Adobe Forms
@@ -40,10 +44,10 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
 * ABAP Inline 7.4
 * BRF+
 
-| Projetos | Descrição | Cardeno de Anotações | Material de Apoio |GITHUB |
-| --- | --- | --- | --- | --- |
-| Odata | Desenvolvimentos Serviço Odata | link driver | [Link](https://github.com/ruvnet/claude-flow) | [Link](https://github.com/ruvnet/claude-flow) |
-| Dicas e Truques | Dicas de desenvolvimentos realizados | Driver | git | git |
+| Projetos | Descrição | Material de Apoio |GITHUB |
+| --- | --- | --- | --- |
+| Odata | Desenvolvimentos Serviço Odata | [Link](https://github.com/ruvnet/claude-flow) | [Link](https://github.com/ruvnet/claude-flow) |
+| Dicas e Truques | Dicas de desenvolvimentos realizados | git | git |
 <!--
 **erisomrodrigues/erisomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,3 +62,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</td>
+
+<td width="50%" valign="top">
+
+### 🥇 Licenças e certificados
+<div align="left">  
+<a href="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav" target="_blank">
+  <img src="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav/badge.png" height="100"/>
+</a>
+
+<a href="https://badger.learning.sap.com/verify/xitik-rysad-vebel-nusup-cuvyc" target="_blank">
+  <img src="https://badger.learning.sap.com/verify/xitik-rysad-vebel-nusup-cuvyc/badge.png" height="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/6493bfbd-24e6-496c-a3ca-bc03a9a9c3a8/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/4b37b444-be60-41ec-a979-b61a3fc92217/image.png" height="100"/>
+</a>
+
+<a href="https://www.dio.me/certificate/HEDZMV1L/share" target="_blank">
+  <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
+</a>
+  
+</div>
+</td>
+</tr>
+</table>
