@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.credly.com/badges/6493bfbd-24e6-496c-a3ca-bc03a9a9c3a8/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/4b37b444-be60-41ec-a979-b61a3fc92217/image.png" height="90"/>
+  <img src="https://images.credly.com/size/680x680/images/4b37b444-be60-41ec-a979-b61a3fc92217/image.png" height="100"/>
 </a>
   
 </div>
