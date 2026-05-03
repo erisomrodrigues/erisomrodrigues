@@ -1,13 +1,11 @@
-<div align="center">
-  
-<div align="center">
-  
-### 🤙Hey There
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center">  
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5MHJ2OXFpNWNtNnl4emhoNnp4ZWRoajd2emVqcWEwOHNwbDhlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQZX2aoRC1Tqw/giphy.gif" width="600" height="300"/>
   
 </div>
 
-## Olá 👋 Meu nome é Erisom Almeida
+
+## Olá 🤙 Meu nome é Erisom Almeida
 
 > Sou Desenvolvedor SAP ABAP
 
