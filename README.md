@@ -80,8 +80,8 @@ Here are some ideas to get you started:
   <img src="https://images.credly.com/size/680x680/images/4b37b444-be60-41ec-a979-b61a3fc92217/image.png" height="100"/>
 </a>
 
-<a href="https://www.dio.me/certificate/HEDZMV1L/share" target="_blank">
-  <img src="https://assets.dio.me/3PNEUWCamlIqYrkN0lvXAvk-KWcSx6VbbNXT0og_5Mw/f:webp/q:80/w:120/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="90"/>
+<a href="https://www.credly.com/badges/6493bfbd-24e6-496c-a3ca-bc03a9a9c3a8/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/4b37b444-be60-41ec-a979-b61a3fc92217/image.png" height="90"/>
 </a>
   
 </div>
