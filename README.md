@@ -28,9 +28,9 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
 * BRF+
 
 | Projetos | Descrição | Cardeno de Anotações | Material de Apoio |GITHUB |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Odata | Desenvolvimentos Serviço Odata | link driver | [Link](https://github.com/ruvnet/claude-flow) | [Link](https://github.com/ruvnet/claude-flow) |
-| Dicas e Truques | Dicas de desenvolvimentos realizados | git | git |
+| Dicas e Truques | Dicas de desenvolvimentos realizados | Driver | git | git |
 <!--
 **erisomrodrigues/erisomrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
