@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### 🥇 Licenças e certificados
 <div align="left">
 <a href="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav" target="_blank">
-  <img src="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav/badge.png" height="90"/>
+  <img src="https://images.credly.com/size/340x340/images/5489be1c-ce49-4cf3-8b24-eee50e5259be/blob" height="90"/>
 </a>
   
 <a href="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav" target="_blank">
