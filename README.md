@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/b26bcce1-bcd4-4a95-93d6-995d736ce4a4/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/5489be1c-ce49-4cf3-8b24-eee50e5259be/blob" height="90"/>
 </a>
+
+<a href="https://images.credly.com/size/80x80/images/a4b6c832-f3f3-46ce-88de-9405aa0fa389/blob" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/5489be1c-ce49-4cf3-8b24-eee50e5259be/blob" height="90"/>
+</a>
   
 <a href="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav" target="_blank">
   <img src="https://badger.learning.sap.com/verify/xalip-gufeg-nurup-suhud-fadav/badge.png" height="90"/>
