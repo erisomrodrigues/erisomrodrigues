@@ -10,7 +10,7 @@
 > Sou Desenvolvedor SAP ABAP
 
 ### :woman_technologist: Sobre mim
-Formação em Ciência da Computação e pós em Engenharia de Software, Tenho conhecimentos em desenvolvimentos com ABAP no SAP ECC no segmento agro e desenvolvimentos ABAP no S/4Hana no segmento Automobilistico. Atuo em projetos de melhorias e AMS a mais de 3 anos.
+Formação em Ciência da Computação e pós em Engenharia de Software, Tenho conhecimentos em desenvolvimentos com ABAP no SAP ECC no segmento agro e desenvolvimentos ABAP no S/4Hana no segmento Automobilistico. Atuo em projetos de melhorias e AMS a mais de 5 anos.
 
 Minha principal área de interesse é a construção de sistemas e melhorias. Acima de tudo, adoro entender a arquitetura de um projeto, aprender coisas novas e trabalhar com consutores muito mais competentes do que eu 😁.
 
