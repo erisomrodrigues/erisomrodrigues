@@ -35,13 +35,15 @@ Minha principal área de interesse é a construção de sistemas e melhorias. Ac
 <td width="50%" valign="top">
 
 ### 🛠 SAP Development Skill
+* S4HANA
+* OOP
+* ABAP Inline 7.5
+* CDS
+* Odata
+* CPI
 * Module Pool
 * Adobe Forms
-* CDS
 * Proxy
-* OOP
-* Odata
-* ABAP Inline 7.4
 * BRF+
 
 | Projetos | Descrição | Material de Apoio |GITHUB |
